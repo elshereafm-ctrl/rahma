@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    background: url('IMG-20250924-WA0270.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+
+#password-screen {
+    margin-top: 50px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#gallery img {
+    width: 200px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+video {
+    width: 300px;
+    margin: 10px;
+}
+
+audio {
+    margin: 5px;
+}
